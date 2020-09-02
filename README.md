@@ -19,7 +19,7 @@ Koh Santepheap is licensed under the SIL Open Font License v1.1 (<http://scripts
 
 ## Authors
 
-[Danh Hong](http://www.khmertype.org)
+[Danh Hong](http://www.nextspell.com)
 
 To see the history of the project or for other information please see the FONTLOG.txt 
 
