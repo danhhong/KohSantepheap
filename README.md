@@ -12,7 +12,7 @@ Koh Santepheap currently has Bold and Regular styles harmonize with Noto Serif (
 Koh Santepheap is licensed under the SIL Open Font License v1.1 (<http://scripts.sil.org/OFL>)
 
 
-- To view the copyright and specific terms and conditions please refer to [OFL.txt](https://github.com/danhhong/KohSantepheap/blob/master/OFL.txt)
+- To view the copyright and specific terms and conditions please refer to [OFL.txt](https://github.com/danhhong/KohSantepheap/blob/master/LICENSE_OFL.txt)
 
 
 
