@@ -1,6 +1,25 @@
 {
 .appVersion = "1352";
-copyright = "Copyright 2020 Google Inc. All Rights Reserved.";
+copyright = "Copyright 2020 The Koh Santepheap Project Authors (https://github.com/danhhong/KohSantepheap)";
+customParameters = (
+{
+name = fsType;
+value = (
+);
+},
+{
+name = "Use Typo Metrics";
+value = 1;
+},
+{
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+},
+{
+name = licenseURL;
+value = "https://scripts.sil.org/OFL";
+}
+);
 date = "2020-04-04 10:30:38 +0000";
 designer = "Danh Hong";
 designerURL = "http://www.nextspell.com/";
@@ -163,11 +182,11 @@ custom = Thin;
 customParameters = (
 {
 name = typoAscender;
-value = 2163;
+value = 2050;
 },
 {
 name = typoDescender;
-value = -555;
+value = -550;
 },
 {
 name = typoLineGap;
@@ -175,11 +194,11 @@ value = 132;
 },
 {
 name = winAscent;
-value = 2050;
+value = 2290;
 },
 {
 name = winDescent;
-value = 550;
+value = 900;
 },
 {
 name = hheaAscender;
@@ -209,11 +228,11 @@ capHeight = 700;
 customParameters = (
 {
 name = typoAscender;
-value = 2163;
+value = 2050;
 },
 {
 name = typoDescender;
-value = -555;
+value = -550;
 },
 {
 name = typoLineGap;
@@ -221,11 +240,11 @@ value = 132;
 },
 {
 name = winAscent;
-value = 2050;
+value = 2290;
 },
 {
 name = winDescent;
-value = 550;
+value = 900;
 },
 {
 name = hheaAscender;
@@ -257,11 +276,11 @@ capHeight = 700;
 customParameters = (
 {
 name = typoAscender;
-value = 2163;
+value = 2050;
 },
 {
 name = typoDescender;
-value = -555;
+value = -550;
 },
 {
 name = typoLineGap;
@@ -269,11 +288,11 @@ value = 132;
 },
 {
 name = winAscent;
-value = 2050;
+value = 2290;
 },
 {
 name = winDescent;
-value = 550;
+value = 900;
 },
 {
 name = hheaAscender;
@@ -304,11 +323,11 @@ capHeight = 700;
 customParameters = (
 {
 name = typoAscender;
-value = 2163;
+value = 2050;
 },
 {
 name = typoDescender;
-value = -555;
+value = -550;
 },
 {
 name = typoLineGap;
@@ -316,11 +335,11 @@ value = 132;
 },
 {
 name = winAscent;
-value = 2050;
+value = 2290;
 },
 {
 name = winDescent;
-value = 550;
+value = 900;
 },
 {
 name = hheaAscender;
@@ -353,11 +372,11 @@ custom = Black;
 customParameters = (
 {
 name = typoAscender;
-value = 2163;
+value = 2050;
 },
 {
 name = typoDescender;
-value = -555;
+value = -550;
 },
 {
 name = typoLineGap;
@@ -365,11 +384,11 @@ value = 132;
 },
 {
 name = winAscent;
-value = 2050;
+value = 2290;
 },
 {
 name = winDescent;
-value = 550;
+value = 900;
 },
 {
 name = hheaAscender;
@@ -192846,8 +192865,6 @@ name = Black;
 weightClass = Black;
 }
 );
-manufacturer = "Danh Hong";
-manufacturerURL = "http://www.nextspell.com/";
 unitsPerEm = 2048;
 versionMajor = 2;
 versionMinor = 0;
